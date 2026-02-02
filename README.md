@@ -1,21 +1,30 @@
-## Hey, I'm David
+## Hey, I'm David 👋
 
 I build developer tools and infrastructure software, mostly in Go.
 
-Based in Washington, DC.
+📍 Washington, DC
 
-### What I'm working on
+---
 
-**[agentbox](https://github.com/davidsenack/agentbox)** — Sandboxed runtime for AI agents.
+### 🛠 What I'm working on
 
-**[gastop](https://github.com/davidsenack/gastop)** — Terminal dashboard for multi-agent workspaces. Like htop, but for AI projects.
+🤖 **[agentbox](https://github.com/davidsenack/agentbox)** — Sandboxed runtime for AI agents.
 
-**[alloy](https://github.com/davidsenack/alloy)** — Fast, rootless package manager that installs sandboxed tools without touching your OS.
+📊 **[gastop](https://github.com/davidsenack/gastop)** — Terminal dashboard for multi-agent workspaces. Like htop, but for AI projects.
 
-**[dotwatch](https://github.com/davidsenack/dotwatch)** — Dotfiles manager that auto-tracks config changes and syncs to GitHub.
+📦 **[alloy](https://github.com/davidsenack/alloy)** — Fast, rootless package manager that installs sandboxed tools without touching your OS.
 
-**[gofetch](https://github.com/davidsenack/gofetch)** — Blazing-fast system info CLI, written in Go.
+🔄 **[dotwatch](https://github.com/davidsenack/dotwatch)** — Dotfiles manager that auto-tracks config changes and syncs to GitHub.
 
-### Links
+⚡ **[gofetch](https://github.com/davidsenack/gofetch)** — Blazing-fast system info CLI, written in Go.
 
-[davidsenack.com](https://davidsenack.com) · [david.senack@gmail.com](mailto:david.senack@gmail.com)
+---
+
+### 📫 Get in touch
+
+[![Website](https://img.shields.io/badge/davidsenack.com-000?style=flat&logo=safari&logoColor=white)](https://davidsenack.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david.senack@gmail.com)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsenack&layout=compact&theme=dark&hide_border=true)
