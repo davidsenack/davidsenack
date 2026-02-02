@@ -25,3 +25,10 @@ I build developer tools and infrastructure software, mostly in Go.
 [![Website](https://img.shields.io/badge/davidsenack.com-000?style=flat&logo=safari&logoColor=white)](https://davidsenack.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david.senack@gmail.com)
 
+---
+
+### 💻 Tech I use
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
