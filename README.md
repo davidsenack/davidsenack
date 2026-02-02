@@ -25,6 +25,3 @@ I build developer tools and infrastructure software, mostly in Go.
 [![Website](https://img.shields.io/badge/davidsenack.com-000?style=flat&logo=safari&logoColor=white)](https://davidsenack.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david.senack@gmail.com)
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsenack&layout=compact&theme=dark&hide_border=true)
