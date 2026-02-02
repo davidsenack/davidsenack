@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm David!</h1>
-<h3 align="center">Cloud Infrastructure Engineer</h3>
+## Hey, I'm David
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsenack&label=Profile%20views&color=0e75b6&style=flat" alt="davidsenack" /> </p>
+I build developer tools and infrastructure software, mostly in Go.
 
-- 🔭 I’m currently working on [finding really big prime numbers!](www.github.com/davidsenack/deepprime)
+Based in Washington, DC.
 
-- 👨‍💻 All of my projects are available at [davidsenack.com](davidsenack.com)
+### What I'm working on
 
-- 📝 I regularly write articles on [davidsenack.com/blog](davidsenack.com/blog)
+**[agentbox](https://github.com/davidsenack/agentbox)** — Sandboxed runtime for AI agents.
 
-- 📫 How to reach me **david.senack@gmail.com**
-  
+**[gastop](https://github.com/davidsenack/gastop)** — Terminal dashboard for multi-agent workspaces. Like htop, but for AI projects.
+
+**[alloy](https://github.com/davidsenack/alloy)** — Fast, rootless package manager that installs sandboxed tools without touching your OS.
+
+**[dotwatch](https://github.com/davidsenack/dotwatch)** — Dotfiles manager that auto-tracks config changes and syncs to GitHub.
+
+**[gofetch](https://github.com/davidsenack/gofetch)** — Blazing-fast system info CLI, written in Go.
+
+### Links
+
+[davidsenack.com](https://davidsenack.com) · [david.senack@gmail.com](mailto:david.senack@gmail.com)
