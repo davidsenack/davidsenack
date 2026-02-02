@@ -29,31 +29,6 @@ I build developer tools and infrastructure software, mostly in Go.
 
 ### 💻 Tech Stack
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65" />
-<br>Go
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br>GitHub
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,ts,docker,aws,linux,vim,git&theme=dark" />
+</p>
